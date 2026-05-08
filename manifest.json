@@ -1,0 +1,13 @@
+{
+  "name": "MaxiMaths",
+  "short_name": "MaxiMaths",
+  "description": "¡Aprende a calcular con Máximo!",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1A1A2E",
+  "theme_color": "#1A1A2E",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
